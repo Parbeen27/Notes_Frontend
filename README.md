@@ -17,6 +17,15 @@ https://github.com/Parbeen27/Notes_Backend
 🔗 Live Frontend URL:  
 https://notes-frontend-one-nu.vercel.app/
 
+## 🧪 Test Credentials
+
+### Admin User
+username: test_admin  
+Password: 1234
+
+### Normal User
+username: user4  
+Password: 1234
 
 ## 📋 Project Overview
 
