@@ -3,6 +3,17 @@
 A modern, responsive React application built with Vite, Tailwind CSS, and Axios. This frontend provides a feature-rich dashboard with secure JWT-based authentication, role-based access control, and seamless integration with the Express.js backend API.
 
 ---
+# Urls
+
+🚀 Postman Documentation:  
+https://parbeen-s-team.docs.buildwithfern.com/notes-baclend-api/localhost-3000-api-admin
+
+🔗 Live Backend URL:  
+https://notes-backend-crcj.onrender.com
+
+🔗 Live Frontend URL:  
+https://notes-frontend-one-nu.vercel.app/
+
 
 ## 📋 Project Overview
 
@@ -355,7 +366,7 @@ Status 4xx/5xx (Error):
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/mern-frontend.git
+git clone https://github.com/Parbeen27/Notes_Frontend
 cd ReactFrontend
 ```
 
@@ -783,7 +794,7 @@ Monitor deployment in Vercel:
 **Your Name**
 - **Email**: parbeensingh27@gmail.com
 - **GitHub**: [@Parbeen27](https://github.com/Parbeen27)
-- **LinkedIn**: [your-linkedin](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Parbeen](https://www.linkedin.com/in/parbeen-singh-b75289249?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
